@@ -1,0 +1,23 @@
+{
+  "name": "fun-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "order.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didierganthier/fun-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didierganthier/fun-unit-testing/issues"
+  },
+  "homepage": "https://github.com/didierganthier/fun-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}

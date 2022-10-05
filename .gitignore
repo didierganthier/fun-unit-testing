@@ -1,2 +1,4 @@
 # gitignore
 .history
+
+node_modules

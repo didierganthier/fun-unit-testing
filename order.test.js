@@ -1,7 +1,3 @@
-function orderTotal() {
-    return order.items.reduce((prev, cur) => prev + cur.price * (cur.quantity || 1), 0);
-}
-
 if (orderTotal({
     items: [
         { name: 'Dragon candy', price: 2, quantity: 3 }
